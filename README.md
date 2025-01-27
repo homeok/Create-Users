@@ -20,27 +20,27 @@ Project consists of a creation of a helpdesk user and other user accounts
 
 <p align="center">
 Create Helpdesk Account by copying Administrator role: <br/>
-<img src="https://imgur.com/a/w7bDVJS" height="80%" width="80%" alt="Server Setup Steps"/>
+<img src="https://imgur.com/a/SFqy44x" height="80%" width="80%" alt="Server Setup Steps"/>
 <br />
 <br />
 Create Helpdesk Account by copying Administrator role:2  <br/>
-<img src="https://imgur.com/a/afvRNXP" height="80%" width="80%" />
+<img src="https://imgur.com/a/0pTRwgT" height="80%" width="80%" />
 <br />
 <br />
 Set password: <br/>
-<img src="https://imgur.com/a/tZQc83x" height="80%" width="80%" />
+<img src="https://imgur.com/a/VESSPik" height="80%" width="80%" />
 <br />
 <br />
 Verify Members of:  <br/>
-<img src="https://imgur.com/a/jaBJ0oz" height="80%" width="80%" />
+<img src="https://imgur.com/a/znS6HBs" height="80%" width="80%" />
 <br />
 <br />
 Setup New Account:  <br/>
-<img src="https://imgur.com/a/5709VCT" height="80%" width="80%" />
+<img src="https://imgur.com/a/CNACKgn" height="80%" width="80%" />
 <br />
 <br />
 Add account information:  <br/>
-<img src="https://imgur.com/a/s5gq4Xl" height="80%" width="80%" />
+<img src="https://imgur.com/a/Mro0pjT" height="80%" width="80%" />
 <br />
 <br />
 
